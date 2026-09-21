@@ -1,6 +1,8 @@
 {
-  "version": "1.0.3",
-  "version_code": 4,
+  "version": "1.0.4",
+  "version_code": 5,
   "apk_url": "https://expo.dev/artifacts/eas/RNUhMM7nguQvbKhPVEy6PIxZKPwdMUCySI0LQE5gcA4.apk",
-  "message": "Nova ikona aplikacije i poboljšanja kalkulatora (Biga/Poolish, temperatura pećnice)."
+  "message": "Nova verzija Pizzabooka je dostupna: aplikacija sada ima novu ikonu i pouzdaniji rad sa slikama, video objavama i galerijom.",
+  "github_url": "https://github.com/branimirjeli-svg/pizzabook",
+  "github_message": "Nova verzija Pizzabooka je završena. Pogledaj novosti i izvorni kod na GitHubu."
 }
